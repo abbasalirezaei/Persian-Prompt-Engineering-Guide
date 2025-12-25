@@ -26,9 +26,10 @@
 کافیست فایل‌ها را تغییر دهی و یک **Pull Request** بفرستی، یا نسخه‌ی بهبودیافته خودت را آپلود کنی.
 
 ---
-### لینک‌های مفید
-* [دانلود جزوه اصلی](./Prompt-Engineering-Guide-Khozamani.docx)
-* [دانلود فایل کارگاه عملی](./Prompt-Engineering-Workshop.docx)
 
----
+### 🔗 لینک‌های مفید
+* [📘 دانلود جزوه اصلی: Mastering_Prompts_Guide](./Mastering_Prompts_Guide.docx)  
+* [🛠️ دانلود فایل کارگاه عملی: Prompts_In_Action](./Prompts_In_Action.docx)
+
+
 
